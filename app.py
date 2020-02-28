@@ -6,4 +6,3 @@ print("I went on safari to see the " + animal)
 print("I ended up " + verb + " away from the " + animal)
 print("the " + animal + " were trying to steal my " + plural_noun)
 
-

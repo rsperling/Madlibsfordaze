@@ -1,4 +1,4 @@
-name = input("Enter your name: ")
+name = input("What do your friends call you?: ")
 location = input("Where are you from?: ")
 cocktail = input("Favorite happy hour drink: ")
 music = input("What genre of music do you listen to?: ")

@@ -1,6 +1,7 @@
+animal = input("Enter your favorite animal (plural): ")
+verb = input("Enter a verb: ")
+plural_noun = input("Enter a plural noun: ")
 
-city = input("Where did you grow up? ")
-adjective = input("How would your friends best describe you? ")
-
-print("I grew up in " + city)
-print("My friends would best describe me as " + adjective)
+print("I went on safari to see the " + animal)
+print("I ended up " + verb + " away from the " + animal)
+print("the " + animal + " were trying to steal my " + plural_noun)

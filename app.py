@@ -1,7 +1,7 @@
-name = input("Enter your name: ")
-city = input("Enter where you grew up: ")
-adjective = input("Enter an adjective that best describes you: ")
+name = input("What is your name? ")
+city = input("Where did you grow up? ")
+adjective = input("How would your friends best describe you? ")
 
-print("Hi! I'm " + name)
+print("Hello! My name is " + name)
 print("I grew up in " + city)
-print("The people I work with would describe me as " + adjective)
+print("My friends would best describe me as " + adjective)

@@ -1,6 +1,5 @@
 import sys
 
-
 class Questionnaire:
     def __init__(self):
         self.name = ""
@@ -37,7 +36,7 @@ class Questionnaire:
         print(f"I love to rock out to {self.music} in the shower every morning")
         print(f"When I am not staring at a computer screen all day writing endless lines of code, I like to {self.hobby}")
         print(f"My coworkers may not know it, but I REALLY cannot stand {self.pet_peeve}")
-        print(f"I am a closet hoarder of approximately {self.desired_skill} pairs of shoes")
+        print(f"I would love to learn how to {self.desired_skill} in my spare time")
         print(f"When I am not reading Bocchi's email manifestos, I love to read {self.book}")
         print(f"One thing I really hope to do in the near future is {self.bucket_list}")
         print(f"Many would describe me as {self.adjective}")

@@ -17,7 +17,7 @@ class Questionnaire:
     def ask_me_stuff(self):
         print("I'm going to ask you some questions...\n")
 
-        self.name = input("What is your nombre? ")
+        self.name = input("What is your name? ")
         self.location = input("Where are you from? ")
         self.cocktail = input("Favorite happy hour beverage: ")
         self.music = input("What genre of music do you listen to? ")
@@ -31,7 +31,7 @@ class Questionnaire:
         print("\n\n")
 
     def about_me(self):
-        print(f"Hello! my nombre is {self.name}")
+        print(f"Hello! my name is {self.name}")
         print(f"My roots are based in {self.location}")
         print(f"When I go to happy hour, I LOVE to drink {self.cocktail}")
         print(f"I love to rock out to {self.music} in the shower every morning")

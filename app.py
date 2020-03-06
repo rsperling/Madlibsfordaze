@@ -18,7 +18,7 @@ class Questionnaire:
 
         self.name = input("What is your name? ")
         self.location = input("Where are you from? ")
-        self.cocktail = input("Favorite happy hour drink: ")
+        self.cocktail = input("Favorite happy hour beverage: ")
         self.music = input("What genre of music do you listen to? ")
         self.hobby = input("Favorite thing to do: ")
         self.pet_peeve = input("What is something that really bothers you about work?: ")

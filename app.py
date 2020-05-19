@@ -25,7 +25,7 @@ class Questionnaire:
         print(f"The Q-life has me drinking {self.cocktail}")
         print(f"My favorite thing to do during the quarantine is {self.hobby}")
         print(f"Because I have so much spare time in the Q-life, I've learned how to {self.desired_skill}")
-        print(f"One thing I really hope to do in the near future is {self.bucket_list}")
+        print(f"when Q-life is over, i will be {self.bucket_list}")
         print(f"Many would describe me as {self.adjective}")
 
 

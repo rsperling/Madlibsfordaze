@@ -28,7 +28,6 @@ class Questionnaire:
         print(f"when Q-life is over, i will be {self.bucket_list}")
         print(f"Many would describe me as {self.adjective}")
 
-
 if __name__ == "__main__":
     q = Questionnaire()
     q.ask_me_stuff()

@@ -11,7 +11,7 @@ class Questionnaire:
 
     def ask_me_stuff(self):
         print("Hi! I'm going to ask you some questions...\n")
-        self.name = input("What is your name? ")
+        self.name = input("What is your name?: ")
         self.cocktail = input("Favorite Q-life drink: ")
         self.hobby = input("Favorite thing to do during quarantine?: ")
         self.desired_skill = input("One new skill you have learned during Q-life?: ")
